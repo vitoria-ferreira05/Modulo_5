@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bb1c35d9-2896-47b9-bd65-c5fefc04c9de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio4/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio4/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio4/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio4/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio4/SeguroDeVida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio4/SeguroDeVida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio4.Main">
+  <component name="RunManager" selected="Application.Exercicio3.Main">
     <configuration name="Exercicio2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio2.Main" />
       <module name="Exercicios Aula30" />
@@ -94,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio4.Main" />
         <item itemvalue="Application.Exercicio3.Main" />
+        <item itemvalue="Application.Exercicio4.Main" />
         <item itemvalue="Application.Exercicio2.Main" />
         <item itemvalue="Application.Main" />
       </list>
