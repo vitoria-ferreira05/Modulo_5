@@ -16,7 +16,5 @@ public class Main {
             System.out.println(tributo);
         }
 
-        ContaPoupanca contaPoupanca = new ContaPoupanca();
-        System.out.println(contaPoupanca.calcularTributos());
     }
 }
