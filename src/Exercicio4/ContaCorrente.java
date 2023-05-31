@@ -1,7 +1,11 @@
 package Exercicio4;
 
 public class ContaCorrente implements Tributos{
-    private double saldoContaCorrente = 900;
+    public ContaCorrente(double saldoContaCorrente) {
+        this.saldoContaCorrente = saldoContaCorrente;
+    }
+
+    private double saldoContaCorrente;
     @Override
     public double calcularTributos() {
         return saldoContaCorrente * 0.01;
